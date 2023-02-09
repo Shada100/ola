@@ -1,0 +1,29 @@
+.dropdown-toggle::after {
+  display: none !important;
+}
+.nav-link:hover {
+  background-color: rgb(241, 189, 94);
+}
+.dropdown-menu.show {
+  background-color: rgb(241, 189, 94);
+}
+.dropdown-menu.hover {
+  background-color: rgb(241, 189, 94);
+}
+
+.dropdown-item {
+  color: rgb(38, 52, 159);
+}
+.dropdown-item {
+  background-color: rgb(241, 189, 94);
+}
+.fixed-top {
+  position: fixed;
+  width: 100%;
+  top: 0;
+
+  z-index: 1030;
+}
+.navbar-custom {
+  background-color: rgb(241, 240, 238);
+}
